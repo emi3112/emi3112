@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @emi3112
+  
 After exploring various small jobs,
 I discovered my true passion for programming.
 Drawn to the logic and endless possibilities offered by coding,
